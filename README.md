@@ -3,22 +3,22 @@
 ## 0. Git Basics
 <details close>
 <summary>Тиждень 1</summary>
-![This is an image](/Git Basics/Introduction_to_Git_and_GitHub_week1.png)
+![This is an image](/Git_Basics/Introduction_to_Git_and_GitHub_week1.png)
 </details>
 
 <details close>
 <summary>Тиждень 2</summary>
-![This is an image](/Git Basics/Introduction_to_Git_and_GitHub_week2.png)
+![This is an image](/Git_Basics/Introduction_to_Git_and_GitHub_week2.png)
 
 </details>
 <details close>
 <summary>learngitbranching JS part1</summary>
-![This is an image](Git Basics\learngitbranching_js_part1.png)
+![This is an image](/Git_Basics/learngitbranching_js_part1.png)
 </details>
 
 <details close>
 <summary>learngitbranching JS part2</summary>
-![This is an image](Git Basics\learngitbranching_js_part2.png)
+![This is an image](/Git_Basics/learngitbranching_js_part2.png)
 </details>
 
 
@@ -30,30 +30,30 @@
 
 <details close>
 <summary>Quiz 1</summary>
-![This is an image](Linux_Survival\Linux_survival_quiz1.png)
+![This is an image](/Linux_Survival/Linux_survival_quiz1.png)
 
 </details>
 
 <details close>
 <summary>Quiz 2</summary>
-![This is an image](Linux_Survival\Linux_survival_quiz2.png)
+![This is an image](/Linux_Survival/Linux_survival_quiz2.png)
 </details>
 
 <details close>
 <summary>Quiz 3</summary>
-![This is an image](Linux_Survival\Linux_survival_quiz3.png)
+![This is an image](/Linux_Survival/Linux_survival_quiz3.png)
 </details>
 
 <details close>
 <summary>Quiz 4</summary>
-![This is an image](Linux_Survival\Linux_survival_quiz4.png)
+![This is an image](/Linux_Survival/Linux_survival_quiz4.png)
 </details>
 
 ## 1. VCS (hello gitty), GitHub and Collaboration
 
 <details close>
 <summary>Quiz 1</summary>
-![This is an image](GitHub and Collaboration\Introduction_to_Git_and_GitHub_week3.png)
+![This is an image](/GitHub_and_Collaboration/Introduction_to_Git_and_GitHub_week3.png)
 
 </details>
 
