@@ -3,12 +3,12 @@
 ## 0. Git Basics
 <details close>
 <summary>Тиждень 1</summary>
-![This is an image](Git Basics\Introduction_to_Git_and_GitHub_week1.png)
+![This is an image](/Git Basics/Introduction_to_Git_and_GitHub_week1.png)
 </details>
 
 <details close>
 <summary>Тиждень 2</summary>
-![This is an image]()
+![This is an image](/Git Basics/Introduction_to_Git_and_GitHub_week2.png)
 
 </details>
 <details close>
