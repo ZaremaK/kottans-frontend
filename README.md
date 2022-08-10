@@ -3,12 +3,12 @@
 ## 0. Git Basics
 <details close>
 <summary>Тиждень 1</summary>
-<img scr="https://github.com/ZaremaK/kottans-frontend/blob/51362772ffd829b09fc9c1fe74368468b9733041/Git_Basics/Introduction_to_Git_and_GitHub_week1.png">
+<img alt="Introduction_to_Git_and_GitHub_week1" scr="https://github.com/ZaremaK/kottans-frontend/blob/dd4fee2382fd4993dcbbef55dfeef2e0e1028a68/Git_Basics/Introduction_to_Git_and_GitHub_week1.png?raw=true">
 </details>
 
 <details close>
 <summary>Тиждень 2</summary>
-![This is an image](/Git_Basics/Introduction_to_Git_and_GitHub_week2.png)
+![Introduction to Git and GitHub week 2](./Git_Basics/Introduction_to_Git_and_GitHub_week2.PNG)
 
 </details>
 <details close>
