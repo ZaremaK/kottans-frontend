@@ -46,7 +46,7 @@
 
 <details close>
 <summary>Quiz 4</summary>
-![This is an image](Linux_Survival\Linux_survival_quiz4.jpg)
+![This is an image](/Linux_Survival/Linux_survival_quiz4.jpg)
 </details>
 
 ## 1. VCS (hello gitty), GitHub and Collaboration
