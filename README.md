@@ -3,7 +3,7 @@
 ## 0. Git Basics
 <details close>
 <summary>Тиждень 1</summary>
-![This is an image](/Git_Basics/Introduction_to_Git_and_GitHub_week1.png)
+<img scr="https://github.com/ZaremaK/kottans-frontend/blob/51362772ffd829b09fc9c1fe74368468b9733041/Git_Basics/Introduction_to_Git_and_GitHub_week1.png">
 </details>
 
 <details close>
@@ -30,8 +30,7 @@
 
 <details close>
 <summary>Quiz 1</summary>
-![This is an image](/Linux_Survival/Linux_survival_quiz1.png)
-<![Linux_survival_quiz1](/Linux_Survival/Linux_survival_quiz1.png)>
+![Linux_survival_quiz1](/Linux_Survival/Linux_survival_quiz1.png)
 </details>
 
 <details close>
