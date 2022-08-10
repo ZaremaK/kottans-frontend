@@ -3,22 +3,22 @@
 ## 0. Git Basics
 <details close>
 <summary>Тиждень 1</summary>
-<img alt="Introduction_to_Git_and_GitHub_week1" scr="https://github.com/ZaremaK/kottans-frontend/blob/dd4fee2382fd4993dcbbef55dfeef2e0e1028a68/Git_Basics/Introduction_to_Git_and_GitHub_week1.png?raw=true">
+[<img alt="Introduction to Git and GitHub: week 1" scr="file=..\Git-Basics\Introduction-to-Git-and-GitHub-week1.jpg"/>]
 </details>
 
 <details close>
 <summary>Тиждень 2</summary>
-![Introduction to Git and GitHub week 2](./Git_Basics/Introduction_to_Git_and_GitHub_week2.PNG)
+![Introduction to Git and GitHub week 2](../Git-Basics/Introduction-to-Git-and-GitHub-week2.png)
 
 </details>
 <details close>
 <summary>learngitbranching JS part1</summary>
-![This is an image](/Git_Basics/learngitbranching_js_part1.png)
+![This is an image](/Git-Basics/learngitbranching-js-part1.png)
 </details>
 
 <details close>
 <summary>learngitbranching JS part2</summary>
-![This is an image](/Git_Basics/learngitbranching_js_part2.png)
+![This is an image](/Git-Basics/learngitbranching-js-part1.png)
 </details>
 
 
@@ -30,29 +30,29 @@
 
 <details close>
 <summary>Quiz 1</summary>
-![Linux_survival_quiz1](/Linux_Survival/Linux_survival_quiz1.png)
+![Linux_survival_quiz1](/Linux-Survival/Linux-survival-quiz1.png)
 </details>
 
 <details close>
 <summary>Quiz 2</summary>
-![This is an image](/Linux_Survival/Linux_survival_quiz2.png)
+![This is an image](/Linux-Survival/Linux-survival-quiz2.png)
 </details>
 
 <details close>
 <summary>Quiz 3</summary>
-![This is an image](/Linux_Survival/Linux_survival_quiz3.png)
+![This is an image](/Linux-Survival/Linux-survival-quiz3.png)
 </details>
 
 <details close>
 <summary>Quiz 4</summary>
-![This is an image](/Linux_Survival/Linux_survival_quiz4.png)
+![This is an image](/Linux-Survival/Linux-survival-quiz4.png)
 </details>
 
 ## 1. VCS (hello gitty), GitHub and Collaboration
 
 <details close>
 <summary>Quiz 1</summary>
-![This is an image](/GitHub_and_Collaboration/Introduction_to_Git_and_GitHub_week3.png)
+![This is an image](/GitHub-and-Collaboration/Introduction-to-Git-and-GitHub-week3.png)
 
 </details>
 
