@@ -31,7 +31,7 @@
 <details close>
 <summary>Quiz 1</summary>
 ![This is an image](/Linux_Survival/Linux_survival_quiz1.png)
-
+<![Linux_survival_quiz1](/Linux_Survival/Linux_survival_quiz1.png)>
 </details>
 
 <details close>
