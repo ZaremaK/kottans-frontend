@@ -1,24 +1,47 @@
 # kottans-frontend
 
+## Stage 0. Self-Study. Contents
+
+### General
+- [X] Git Basics
+- [X] Linux CLI and Networking
+- [] VCS (hello gitty), GitHub and Collaboration
+
+### Front-End Basics
+- [] Intro to HTML & CSS
+- [] Responsive Web Design
+- [] HTML & CSS Practice
+- [] JavaScript Basics
+- [] Document Object Model - practice
+
+### Advanced Topics
+- [] Building a Tiny JS World (pre-OOP) - practice
+- [] Object oriented JS - practice
+- [] OOP exercise - practice
+- [] Offline Web Applications - optional
+- [] Memory pair game — real project!
+- [] Website Performance Optimization - optional
+- [] Friends App - real project!
+
 ## 0. Git Basics
 <details close>
-<summary>Тиждень 1</summary>
-<image scr="/git-basics/introduction-to-git-and-github-week1.png" alt="Introduction to Git and GitHub: week 1">
+<summary>Introduction to Git and GitHub: week 1</summary>
+<image src="/git-basics/introduction-to-git-and-github-week1.png" alt="Introduction to Git and GitHub: week 1">
 </details>
 
 <details close>
-<summary>Тиждень 2</summary>
-<image scr="/git-basics/introduction-to-git-and-github-week2.png" alt="Introduction to Git and GitHub: week 2">
+<summary>Introduction to Git and GitHub: week 2</summary>
+<image src="/git-basics/introduction-to-git-and-github-week2.png" alt="Introduction to Git and GitHub: week 2">
 
 </details>
 <details close>
 <summary>learngitbranching JS part1</summary>
-<image scr="/git-basics/learngitbranching-js-part1.png" alt="learngitbranching">
+<image src="/git-basics/learngitbranching-js-part1.png" alt="learngitbranching">
 </details>
 
 <details close>
 <summary>learngitbranching JS part2</summary>
-<image scr="/git-basics/learngitbranching-js-part2.png" alt="learngitbranching">
+<image src="/git-basics/learngitbranching-js-part2.png" alt="learngitbranching">
 </details>
 
 
@@ -31,30 +54,32 @@
 
 <details close>
 <summary>Quiz 1</summary>
-<image scr="/linux-survival/linux-survival-quiz01.png" alt="linux survival: quiz01">
+<image src="/linux-survival/linux-survival-quiz01.png" alt="linux survival: quiz01">
 </details>
 
 <details close>
-<image scr="/linux-survival/linux-survival-quiz02.png" alt="linux survival: quiz02">
+<summary>Quiz 2</summary>
+<image src="/linux-survival/linux-survival-quiz02.png" alt="linux survival: quiz02">
 </details>
 
 <details close>
-<image scr="/linux-survival/linux-survival-quiz03.png" alt="linux survival: quiz03">
+<summary>Quiz 3</summary>
+<image src="/linux-survival/linux-survival-quiz03.png" alt="linux survival: quiz03">
 </details>
 
 <details close>
-<image scr="/linux-survival/linux-survival-quiz04.png" alt="linux survival: quiz04">
+<summary>Quiz 4</summary>
+<image src="/linux-survival/linux-survival-quiz04.png" alt="linux survival: quiz04">
 </details>
 
 ## 1. VCS (hello gitty), GitHub and Collaboration
 
 <details close>
-<summary>Quiz 1</summary>
-![This is an image](/GitHub-and-Collaboration/Introduction-to-Git-and-GitHub-week3.png)
-
+<summary>Introduction to Git and GitHub: week 3</summary>
+<image src="/github-and-collaboration/introduction-to-git-and-github-week3.png" alt="Introduction to Git and GitHub: week 3">
 </details>
 
 <details close>
-<summary>Quiz 2</summary>
-![This is an image]()
+<summary>Introduction to Git and GitHub: week 3</summary>
+<image src="/github-and-collaboration/introduction-to-git-and-github-week3.png" alt="Introduction to Git and GitHub: week 3">
 </details>
